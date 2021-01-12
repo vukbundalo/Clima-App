@@ -18,4 +18,4 @@ App inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/
 - How to use the TextField Widget to take user input.
 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
+![Finished App](https://github.com/vukbundalo/Images/blob/main/clima.gif)
