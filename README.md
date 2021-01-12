@@ -3,8 +3,6 @@
 
 App inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-). Find out the live weather data in the current location of the device as well as the weather for any city you can think of!
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
-
 ## What I've learned while building this app
 
 - How to use Dart to perform asynchronous tasks.
@@ -18,3 +16,6 @@ App inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/
 - Learn about the lifecycle of Stateful Widgets and how to override them.
 - How to use the Geolocator package to get live location data for both iOS and Android.
 - How to use the TextField Widget to take user input.
+
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
